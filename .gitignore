@@ -1,0 +1,16 @@
+target
+.settings
+.project
+.classpath
+.springBeans
+*.log
+.idea
+*.iml
+*.yml
+build
+
+*.DS_Store
+**/Dockerfile
+/.idea/
+/ali-interview.iml
+/target/
